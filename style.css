@@ -21,7 +21,7 @@
   src: url(./fonts/text-regular.woff);
 }
 
-.conteiner {
+.container {
   max-width: 1440px;
   width: 100%;
   display: -webkit-box;
